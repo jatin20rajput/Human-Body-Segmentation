@@ -1,4 +1,6 @@
-# **Full Body and Brain Tumor Segmentation using U-Net**
+# **Full Body and Brain Tumor Segmentation using U-Net** 
+
+# ** presentsation video (drive link)** - https://drive.google.com/file/d/1olcfbUFBnevPbynV-XiYKQbvwqoiSBwI/view?usp=sharing 
 
 This project focuses on semantic segmentation of two distinct domains:
 
