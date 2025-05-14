@@ -44,11 +44,13 @@ Both tasks are implemented using a **U-Net-based deep learning architecture** in
 
 ## 📁 **Project Structure**
 
-├── datasets/
-│ ├── MADS/ # Full-body images and masks
-│ └── BrainMRI/ # MRI images and tumor masks
-├── train_body_segmentation.py
-├── train_brain_segmentation.py 
+├── datasets/ 
+
+│ ├── df.csv/ # Full-body images and masks 
+
+├── full body segmentation.ipynb
+
+├── brain tumor segmentation.ipynb 
 
 
 ## 🖼️ **Visualizations**
